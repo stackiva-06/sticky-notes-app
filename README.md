@@ -1,5 +1,9 @@
 # Sticky Notes Desktop Application
 
+[![GitHub](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue)](https://github.com/YOUR_USERNAME/sticky-notes-app)
+[![Python](https://img.shields.io/badge/Python-3.7%2B-green)](https://www.python.org/)
+[![PyQt5](https://img.shields.io/badge/PyQt5-5.15.0-blue)](https://pypi.org/project/PyQt5/)
+
 A modern, lightweight desktop sticky notes application with alarm functionality. Always stays on the desktop background and automatically restores position on startup.
 
 ## Features
@@ -11,6 +15,12 @@ A modern, lightweight desktop sticky notes application with alarm functionality.
 - ✅ **Auto-Restore**: Remembers position and opens on system restart
 - ✅ **Modern UI**: Clean, light theme with smooth animations
 - ✅ **Resizable Sections**: Drag to adjust note/task list sizes
+- ✅ **Draggable Window**: Click and drag the header to reposition
+
+## Screenshots
+
+<!-- Add screenshots here if you have them -->
+![App Screenshot](screenshot.png)
 
 ## Installation
 
@@ -21,12 +31,7 @@ A modern, lightweight desktop sticky notes application with alarm functionality.
 
 ### Step-by-Step Installation
 
-1. **Clone or download the project files**
-
-   Download all files to a folder named `sticky-notes-app`
-
-2. **Open Terminal/Command Prompt**
-
-   Navigate to the project directory:
+1. **Clone the repository**
    ```bash
+   git clone https://github.com/YOUR_USERNAME/sticky-notes-app.git
    cd sticky-notes-app
